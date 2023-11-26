@@ -1,0 +1,22 @@
+{
+  "name": "teste-tecnico-ntt-data",
+  "version": "1.0.0",
+  "description": "Repositorio criado para a terceira questao da prova QA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdoourado/teste-tecnico-ntt-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasdoourado/teste-tecnico-ntt-data/issues"
+  },
+  "homepage": "https://github.com/lucasdoourado/teste-tecnico-ntt-data#readme",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
